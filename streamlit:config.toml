@@ -4,3 +4,10 @@ headless = true
 address = "0.0.0.0"
 enableCORS = false
 enableXsrfProtection = false
+ 
+[theme]
+base = "dark"
+backgroundColor = "#070d1a"
+secondaryBackgroundColor = "#0f1724"
+textColor = "#e2e8f0"
+primaryColor = "#00c8f8"
